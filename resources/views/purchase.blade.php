@@ -84,7 +84,7 @@
 
                 <div id="paynowshow" style="display:none;">
                     <img src="{{ asset('img/paynow.png') }}" alt="lock" class="img-thumbnail img-thumbnail-noborder">
-                    <br>                    
+                    <br><br>                    
                     Please send payment via Mobile number to: <br>
                     <b>{{ config('constants.mobileNumber') }}</b>
                     <br>
