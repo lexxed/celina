@@ -33,6 +33,11 @@
 
     <div class="container">  
 
+        <img src="{{ asset('img/header04.jpg') }}" alt="product" class="img-responsive">
+        <br>
+        <img src="{{ asset('img/OneDollarShipping.jpg') }}" alt="product" class="img-responsive">
+        <br> 
+
         <div class="row">
 
             <div class="col-md-3 col-sm-3">

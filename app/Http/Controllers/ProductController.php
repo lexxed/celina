@@ -72,7 +72,7 @@ class ProductController extends Controller
         {
             $product_images_array[] = (string)$file;
         }        
-        //var_dump($product_images_array);
+        //var_dump($product_images_array);            
 
         return view('product')->with(['product' => $product, 'interested' => $interested, 'product_images_array' => $product_images_array,'category' => $category]);
     }
