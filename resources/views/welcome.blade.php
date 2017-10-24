@@ -35,8 +35,6 @@
 
         <img src="{{ asset('img/header04.jpg') }}" alt="product" class="img-responsive">
         <br>
-        <img src="{{ asset('img/OneDollarShipping.jpg') }}" alt="product" class="img-responsive">
-        <br> 
 
         <div class="row">
 
@@ -150,11 +148,14 @@
                     </div>
                 </div>                
  
-                <br>
                 <p>
                 <a href="{{ url('/shop') }}" class="btn btn-primary btn-lg">Shop now</a> 
+                <!--
                 <span style="color:#F778A1;font-size: 130%;text-shadow: 1px 1px #0C090A;">$1 Shipping in SG</span>
+                -->
                 </p>
+                <img src="{{ asset('img/OneDollarShipping.jpg') }}" alt="product" class="img-responsive">
+                <br>                 
 
             </div><!-- end col-md-12 -->
             
