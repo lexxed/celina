@@ -24,7 +24,7 @@ Moisturizing factor and different kinds of vitamins, such ingredients are effect
 <br>
 Best silk collagen crystal neck mask are specially pre-moistened with phyto-collagen, pore moisturizing & moisturizing & lost collagen replenish exclusively by bio-fermentation technology, which has been proved to its power of collagen ravishment, deep moisturize and wrinkle smoothing.
 <br><br>
-Crystal Collagen Gold Eye Mask have been best selling mask for taiwan and highly recommended on 女人我最大 taiwan tv show on beauty.
+Crystal Collagen Gold Neck Mask have been best selling mask for taiwan and highly recommended on 女人我最大 taiwan tv show on beauty.
 <br><br>
 <b>Ingredients:</b>
 <br>
