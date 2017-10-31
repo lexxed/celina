@@ -22,6 +22,10 @@ Route::post('checkout', 'CheckoutController@store');
 Route::get('purchase', 'PurchasesController@index');
 Route::post('purchase', 'PurchasesController@store');
 
+Route::get('eye-masks/collagen-eye-gold', function(){ 
+    return Redirect::to('eye-masks/crystal-collagen-gold-eye', 301); 
+});
+
 
 Route::resource('shop', 'ProductController', ['only' => ['index', 'show']]);
 
