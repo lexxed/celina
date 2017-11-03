@@ -33,7 +33,7 @@
 
     <div class="container">  
 
-        <img src="{{ asset('img/header04.jpg') }}" alt="product" class="img-responsive">
+        <img src="https://res.cloudinary.com/dncotieoi/image/upload/v1509688369/header04_tlmblq.jpg" alt="product" class="img-responsive">
         <br>
 
         <div class="row">
@@ -69,7 +69,7 @@
                 <div class="card h-100 thumbnail2">
                     <div class="card-header"><b>Slimming</b></div>
                     <div class="caption text-center">
-                        <a href="{{ url('diet') }}"><img src="{{ asset('img/main/share-plum.png') }}" alt="product" class="img-responsive"></a>
+                        <a href="{{ url('diet') }}"><img src="https://res.cloudinary.com/dncotieoi/image/upload/v1509688596/share-plum_j4pnq7.png" alt="product" class="img-responsive"></a>
                     </div> <!-- end caption -->
                 </div> <!-- end thumbnail -->
             </div> <!-- end col-md-3 -->            
@@ -154,7 +154,7 @@
                 <span style="color:#F778A1;font-size: 130%;text-shadow: 1px 1px #0C090A;">$1 Shipping in SG</span>
                 -->
                 </p>
-                <img src="{{ asset('img/OneDollarShipping.jpg') }}" alt="product" class="img-responsive">
+                <img src="https://res.cloudinary.com/dncotieoi/image/upload/v1509688468/OneDollarShipping_o1rwo8.jpg" alt="product" class="img-responsive">
                 <br>                 
 
             </div><!-- end col-md-12 -->

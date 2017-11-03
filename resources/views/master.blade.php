@@ -12,7 +12,11 @@
     <!-- Stylesheets -->
     <link rel="stylesheet" href="{{ asset('css/app.css') }}"> 
     <!-- Favicon and Apple Icons -->
-    <link rel="shortcut icon" href="{{ asset('img/favicon.ico') }}">
+    <link rel="shortcut icon" href="{{ asset('img/favicoccn.ico') }}">
+    <link rel="icon" type="image/png" href="{{ asset('img/favicon-32x32.png') }}" sizes="32x32" />
+    <link rel="icon" type="image/png" href="{{ asset('img/favicon-16x16.png') }}" sizes="16x16" />
+
+
 </head>
 <body>
 @include('partials.analytics')
