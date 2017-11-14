@@ -31,9 +31,11 @@ class ProductController extends Controller
         if($url != 'shop') {
             $products = Product::where('display', 1)
                                 ->where('cat_id','=',$category->id)
+                                ->orderBy('displayrank', 'desc')
                                 ->get();                        
         } else {
             $products = Product::where('display', 1)
+                                ->orderBy('displayrank', 'desc')
                                 ->get();                                                
         }
 
