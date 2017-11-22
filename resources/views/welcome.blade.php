@@ -37,21 +37,21 @@
         <br>
 
         <div class="row">
-
+            
             <div class="col-md-3 col-sm-3">
                 <div class="card h-100 thumbnail2">
-                    <div class="card-header"><b>Eye Masks</b></div>
+                    <div class="card-header"><b>Face Masks</b></div>
                     <div class="caption text-center">
-                        <a href="{{ url('eye-masks') }}"><img src="{{ asset('img/eye-mask-main01.jpg') }}" alt="product" class="img-responsive"></a>
+                        <a href="{{ url('face-masks') }}"><img src="{{ asset('img/face-mask-main01.jpg') }}" alt="product" class="img-responsive"></a>
                     </div> <!-- end caption -->
                 </div> <!-- end thumbnail -->
             </div> <!-- end col-md-3 -->
 
             <div class="col-md-3 col-sm-3">
                 <div class="card h-100 thumbnail2">
-                    <div class="card-header"><b>Face Masks</b></div>
+                    <div class="card-header"><b>Eye Masks</b></div>
                     <div class="caption text-center">
-                        <a href="{{ url('face-masks') }}"><img src="{{ asset('img/face-mask-main01.jpg') }}" alt="product" class="img-responsive"></a>
+                        <a href="{{ url('eye-masks') }}"><img src="{{ asset('img/eye-mask-main01.jpg') }}" alt="product" class="img-responsive"></a>
                     </div> <!-- end caption -->
                 </div> <!-- end thumbnail -->
             </div> <!-- end col-md-3 -->

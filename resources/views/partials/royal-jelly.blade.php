@@ -83,16 +83,6 @@
                     </div>   
                 </div><!-- end col-md-12 -->        
 
-                <div class="col-md-12" style="font-size:25px;">
-                        <form action="{{ url('/cart') }}" method="POST" class="side-by-side">
-                             {!! csrf_field() !!}
-                             <input type="hidden" name="id" value="9">
-                             <input type="submit" class="btn btn-success btn-lg" value="Buy Now">
-                        </form>  
-                        SGD {{ $product->price }}
-                        <br><br>
-                        <img src="{{ asset('img/wepayshippingsmall.png') }}" alt="we pay shipping" class="img-thumbnail img-thumbnail-noborder">
-                        <br><br>                    
-                </div><!-- end col-md-12 -->
+
 
         </div> <!-- end row -->   
