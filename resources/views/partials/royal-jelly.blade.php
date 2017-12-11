@@ -21,9 +21,9 @@
                 <p><h1>Photos of Usage</h1></p>
                 <h4>My hand is applied with various makeups.</h4>
                 <img src="{{ asset('img/hha/t001.png') }}" alt="hha cleanser" class="img-thumbnail"><br><br>
-                <h4>After using just 1 sheet of {{ config('constants.brandName') }}.</h4>
+                <h4>After using just 1 sheet of HHA Royal Jelly Paper.</h4>
                 <img src="{{ asset('img/hha/t002.png') }}" alt="hha cleanser" class="img-thumbnail"><br><br>
-                <h4>Take 1 sheet of {{ config('constants.brandName') }} and rinse with water</h4>
+                <h4>Take 1 sheet of HHA Royal Jelly Paper and rinse with water</h4>
                 <img src="{{ asset('img/hha/t003.png') }}" alt="hha cleanser" class="img-thumbnail"><br><br>
                 <h4>Many bubbles are formed.</h4>
                 <img src="{{ asset('img/hha/t004.png') }}" alt="hha cleanser" class="img-thumbnail"><br><br>
@@ -35,7 +35,7 @@
 
         <div class="row">
                 <div class="col-md-12">
-                    <p><h1>Customer's Reviews of {{ config('constants.brandName') }}</h1></p>
+                    <p><h1>Customer's Reviews of HHA Royal Jelly Paper</h1></p>
                     <div class="row">
                         <div class="col-md-2">
                             <img src="{{ asset('img/hha/sample001.png') }}" alt="users review photos" class="img-thumbnail"><br><br>
