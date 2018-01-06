@@ -73,7 +73,8 @@ class PurchasesController extends Controller
         # set checkoutstate to S for stripe
         $customer_id = Session::get('customerinformation')->customer_id;
         $customerinformation = Customerinformation::where('customer_id', $customer_id)->first();
-        $customerinformation->checkoutstate = $request->paymentmethod;
+        //$customerinformation->checkoutstate = $request->paymentmethod;
+        $customerinformation->checkoutstate = '0';
         $customerinformation->save();    
 
         #clear shopping cart
