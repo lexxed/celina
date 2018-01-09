@@ -31,7 +31,11 @@
                     <p>
                     Quantity <input type="qty" name="qty" size="2" class="form-control" id="qty" placeholder="1" value="1">
                     </p>
-                    <input type="submit" class="btn btn-success btn-lg" value="Add to Cart">
+                    @if($product->stock == 0)
+                        <input type="submit" class="btn btn-success btn-lg" value="Out of Stock" disabled="">
+                    @else
+                        <input type="submit" class="btn btn-success btn-lg" value="Add to Cart">
+                    @endif
                 </form>
                 {{--
                 <form action="{{ url('/wishlist') }}" method="POST" class="side-by-side">
