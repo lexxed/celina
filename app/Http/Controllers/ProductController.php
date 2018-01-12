@@ -68,13 +68,17 @@ class ProductController extends Controller
 
         $directory = 'img/product_images/' . $product_images->img_slug;
 
-        $files = File::allFiles($directory);
-        $product_images_array = array();
-        foreach ($files as $file)
-        {
-            $product_images_array[] = (string)$file;
-        }        
-        //var_dump($product_images_array);            
+        if (file_exists($directory)) {
+            $files = File::allFiles($directory);
+            $product_images_array = array();
+            foreach ($files as $file)
+            {
+                $product_images_array[] = (string)$file;
+            }        
+            //var_dump($product_images_array);            
+        } else {
+            $product_images_array = array();
+        }    
 
         return view('product')->with(['product' => $product, 'interested' => $interested, 'product_images_array' => $product_images_array,'category' => $category]);
     }
