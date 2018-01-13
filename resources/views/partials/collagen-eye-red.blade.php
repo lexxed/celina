@@ -1,4 +1,3 @@
-<br>
 <b>Which skin type is it good for?</b><br>
 ✔ Normal<br>
 ✔ Dry<br>
