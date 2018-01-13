@@ -68,6 +68,7 @@
                             <b>it's very easy to use</b><br>
                             Written by Joey Li**  on 11 Feb 2017<br><br>
                             I don't use other cleanser after using hha jelly paper. My skin looks so much better for cutting out normal foaming cleansers. It's softer and healthier looking. After cleansing my skin would often feel tight or just look irritated. I also never realised how bad my usual cleansers were at removing makeup until I tried this royal jelly paper. 
+                            <br><br>
                         </div>
                     </div>    
                     <div class="row">
