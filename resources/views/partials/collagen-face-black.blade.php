@@ -1,4 +1,3 @@
-<br>
 <b>Which skin type is it good for?</b><br>
 ✔ Normal<br>
 ✔ Combination<br>
@@ -25,7 +24,7 @@ Black Mineral Collagen Face mask are specially pre-moistened with phyto-collagen
 <br><br>
 Crystal Collagen Black Mineral Facial Mask have been best selling mask for taiwan and highly recommended on 女人我最大 taiwan tv show on beauty.
 <br><br>
-What is the difference between Gold Collagen Masks and ordinary collagen face mask paper?<br>
+What is the difference between Black Mineral Collagen Masks and ordinary collagen face mask paper?<br>
 1. Absorption: Our mask is made of plant collagen, it will gradually dissolve under body temperature and permeate into the skin. Ordinary mask ingredients, on the contrary, are usually absorbed by the cotton paper used.<br>
 2. Effectiveness Ingredients used are taken from nature. The compositions of which are very close to that of the human skin tissue. With high-density plant collagen and transparent mask releasing technology, the ingredients can be quickly absorbed by skin.
 One-of-a-kind Transparent Technology<br>
