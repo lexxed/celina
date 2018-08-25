@@ -144,7 +144,7 @@
                         <img src="{{ asset('img/stars.png') }}" alt="4 stars" class="img-thumbnail-noborder">
                         <b>Great Buy</b><br>
                         Written by Ice*** on 21 Feb 2017<br><br>
-                        Have bought before and was very nice to use. Put in fridge for extra relaxation.
+                        Have bought before and was very nice to use. Put in fridge for extra relaxation. Very good for wrinkles.
                     </div>
                 </div>                
  
