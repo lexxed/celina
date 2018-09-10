@@ -132,7 +132,7 @@
 	                    <img src="{{ asset('img/stars.png') }}" alt="4 stars" class="img-thumbnail-noborder">
 	                    <b>Very happy with the eye masks</b><br>
 	                    Written by Wendy W*** on 23 Feb 2017<br><br>
-	                    Have bought before and was very nice to use. Put in fridge for extra relaxation.
+	                    Have bought before and was very nice to use. Put in fridge for extra relaxation. Relaxing after use
 	                </div>
 	            </div>   
 
