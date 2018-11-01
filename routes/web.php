@@ -41,7 +41,7 @@ Route::resource('cleanser', 'ProductController', ['only' => ['index', 'show']]);
 
 Route::resource('cart', 'CartController');
 Route::post('cart/shipping', 'CartController@shipping');
-//Route::resource('cart', 'CartController@shippingReg');
+//Route::resource('cart', 'CartController@shippingReg');XXX
 
 Route::delete('emptyCart', 'CartController@emptyCart');
 Route::post('switchToWishlist/{id}', 'CartController@switchToWishlist');
